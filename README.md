@@ -1,1 +1,1 @@
-# puthon assignments
+# python assignments
